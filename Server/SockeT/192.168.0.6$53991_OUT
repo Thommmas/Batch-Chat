@@ -1,0 +1,1 @@
+blender.exe -E CYCLES -b D:\De\Renders\Renders\Mortar_and_Pestle\Mortar_and_Pestle.blend -f 10
